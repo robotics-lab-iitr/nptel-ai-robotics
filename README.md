@@ -14,6 +14,7 @@ Each week's resources (Jupyter notebooks) are provided in separate folders as:
 
 - **[Week 1](./week1/)**
 - **Week 2:** _updated soon_
+- **[Week 7](./week7/)**
 
 ## Typical Workflow
 
