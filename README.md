@@ -13,8 +13,12 @@ For comprehensive theoretical discussions, implementation details, and step-by-s
 Each week's resources (Jupyter notebooks) are provided in separate folders as:
 
 - **[Week 1](./week1/)**
-- **Week 2:** _updated soon_
+- **[Week 2](./week2/)**
+- **[Week 4](./week4/)**
 - **[Week 7](./week7/)**
+- **[Week 8](./week8/)**
+
+Other week codes are *updated soon*
 
 ## Typical Workflow
 
