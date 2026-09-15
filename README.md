@@ -14,19 +14,19 @@ Each week’s Jupyter notebooks are organized in separate folders and can be ope
 
 | Weeks | Lecture Notebooks | Colab Links |
 |------|----------|---------------|
-| **[Week 1](./week1/)** | Lecture 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week1/week1_lecture4.ipynb) |
+| **[Week 1](./week01/)** | Lecture 4 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week01/week01_lecture4.ipynb) |
 | | Lecture 5 | Python Scripts provided |
-| **[Week 2](./week2/)** | Lecture 6 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week2/week2_lecture6.ipynb) |
-| **[Week 4](./week4/)** | Lecture 16 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week4/week4_lecture16.ipynb) |
-| | Lecture 17 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week4/week4_lecture17.ipynb) |
-| | Lecture 18 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week4/week4_lecture18.ipynb) |
-| **[Week 7](./week7/)** | Lecture 31 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week7/week7_lecture31.ipynb) |
-| | Lecture 32 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week7/week7_lecture32.ipynb) |
-| | Lecture 33 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week7/week7_lecture33.ipynb) |
-| | Lecture 34 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week7/week7_lecture34.ipynb) |
-| | Lecture 35 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week7/week7_lecture35.ipynb) |
-| **[Week 8](./week8/)** | Lecture 39 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week8/week8_lecture39.ipynb) |
-| **[Week 9](./week9/)** | Lecture 43 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week9/week9_lecture43.ipynb) |
+| **[Week 2](./week02/)** | Lecture 6 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week02/week02_lecture6.ipynb) |
+| **[Week 4](./week04/)** | Lecture 16 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week04/week04_lecture16.ipynb) |
+| | Lecture 17 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week04/week04_lecture17.ipynb) |
+| | Lecture 18 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week04/week04_lecture18.ipynb) |
+| **[Week 7](./week07/)** | Lecture 31 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week07/week07_lecture31.ipynb) |
+| | Lecture 32 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week07/week07_lecture32.ipynb) |
+| | Lecture 33 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week07/week07_lecture33.ipynb) |
+| | Lecture 34 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week07/week07_lecture34.ipynb) |
+| | Lecture 35 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week07/week07_lecture35.ipynb) |
+| **[Week 8](./week08/)** | Lecture 39 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week08/week08_lecture39.ipynb) |
+| **[Week 9](./week09/)** | Lecture 43 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week09/week09_lecture43.ipynb) |
 | **[Week 10](./week10/)** | Lecture 46 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week10/week10_lecture46.ipynb) |
 | | Lecture 48 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week10/week10_lecture47.ipynb) |
 | | Lecture 49 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week10/week10_lecture47.ipynb) |
