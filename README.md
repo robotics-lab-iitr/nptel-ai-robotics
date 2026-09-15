@@ -27,6 +27,11 @@ Each week’s Jupyter notebooks are organized in separate folders and can be ope
 | | Lecture 35 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week7/week7_lecture35.ipynb) |
 | **[Week 8](./week8/)** | Lecture 39 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week8/week8_lecture39.ipynb) |
 | **[Week 9](./week9/)** | Lecture 43 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week9/week9_lecture43.ipynb) |
+| **[Week 10](./week10/)** | Lecture 46 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week10/week10_lecture46.ipynb) |
+| | Lecture 48 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week10/week10_lecture47.ipynb) |
+| | Lecture 49 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week10/week10_lecture47.ipynb) |
+| | Lecture 50 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week10/week10_lecture50.ipynb) |
+
 
 Other week codes are *updated soon*
 
