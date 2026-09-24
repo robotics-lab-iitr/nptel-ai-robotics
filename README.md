@@ -31,6 +31,8 @@ Each week’s Jupyter notebooks are organized in separate folders and can be ope
 | | Lecture 48 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week10/week10_lecture47.ipynb) |
 | | Lecture 49 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week10/week10_lecture47.ipynb) |
 | | Lecture 50 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week10/week10_lecture50.ipynb) |
+| **[Week 11](./week11/)** | Lecture 55 (MLP) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week11/week11_lecture55_mlp.ipynb) |
+| | Lecture 55 (DeLAN) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/robotics-lab-iitr/nptel-ai-robotics/blob/main/week11/week11_lecture55_delan.ipynb) |
 
 
 Other week codes are *updated soon*
